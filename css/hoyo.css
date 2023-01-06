@@ -176,6 +176,10 @@ ul, li {
 }
 .bg-footer .fbox {
     color: #fff;
-    font-size: 26px;
+    font-size: 22px;
     font-weight: bold;
+}
+.bg-footer:hover {
+    border: 1px solid #fff;
+    transition: .5s ease-out;
 }
